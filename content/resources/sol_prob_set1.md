@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: null
+file_location: /coursemedia/2-997-decision-making-in-large-scale-systems-spring-2004/d7bb254ad8918f014fbabd6b140dd157_sol_prob_set1.pdf
+file_type: application/pdf
+resourcetype: Document
+title: sol_prob_set1.pdf
+uid: d7bb254a-d891-8f01-4fba-bd6b140dd157
+---

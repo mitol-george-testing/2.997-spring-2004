@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0dcc9468-c29d-1a47-f0ed-c1732ef10d5c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Decision Making in Large Scale Systems",
+  "course_description": "This course is an introduction to the theory and application of large-scale dynamic programming. Topics include Markov decision processes, dynamic programming algorithms, simulation-based algorithms, theory and algorithms for value function approximation, and policy search methods. The course examines games and applications in areas such as dynamic resource allocation, finance and queueing networks.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.997",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
